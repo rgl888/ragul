@@ -1,2 +1,2 @@
 # ragul
-for learning perpose only
+for learning purpose only
